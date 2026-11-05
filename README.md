@@ -1,7 +1,6 @@
 # Django + PostgreSQL starter
 
 [![Deploy to Uppcoder](deploy-to-uppcoder.svg)](https://portal.uppcoder.com/cust-portal/deploy?starter=django-postgresql-starter&utm_source=github&utm_medium=repo&utm_campaign=django-starter)
-[![Uppcoder on DevHunt](https://devhunt.org/badge/uppcoder.svg)](https://devhunt.org/tool/uppcoder)
 
 A small Django project on PostgreSQL, ready to deploy: a notes page and the
 Django admin. Everything that changes between your laptop and a server comes
